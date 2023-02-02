@@ -11,9 +11,11 @@
 
 ## How to run
 1. Clone this repo
-2. Install the python dependencies with <b> pip install -r requirements.txt </b>
-3. In the root folder run <b> python -m project.main </b> to start the development server. 
-4. Expected url should be <b> http://127.0.0.1:5000  </b>
+2. Navigate to to root folder 
+3. (optional) Setup your virtual environment and activate it.
+4. While in your root foldeer, install the python dependencies with <b> pip install -r requirements.txt </b>
+5. In the root folder run <b> python -m project.main </b> to start the development server. 
+6. Expected url should be <b> http://127.0.0.1:5000  </b>
 
 
 
