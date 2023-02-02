@@ -1,5 +1,7 @@
 ## About
 <p> This project was built using pyhton (flask) on the backend and React on the frontend </p>
+<p> Screen recording, detailing the run through of all the required features and tests </p>
+https://www.loom.com/share/e7c602ea93d644ebba78fc8adfac6282
 
 
 ## Tests
